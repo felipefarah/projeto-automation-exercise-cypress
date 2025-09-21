@@ -1,0 +1,18 @@
+{
+  "nome": "José Vivolino",
+  "email": "jose_vivolino@teste.com",
+  "password": "Aula@1234",
+  "dia": "2",
+  "mes": "September",
+  "ano": "1988",
+  "primeiroNome": "José",
+  "ultimoNome": "Vivolino",
+  "empresa": "Minsait",
+  "endereco": "Rua Peçanha, 131, Carlos Prates",
+  "endereco2": "Rua Uruguai, 131, Jardim América",
+  "pais": "Canada",
+  "estado": "Minas Gerais",
+  "cidade": "Belo Horizonte",
+  "cep": "30710-040",
+  "celular": "55(35)99124-3432"
+}
